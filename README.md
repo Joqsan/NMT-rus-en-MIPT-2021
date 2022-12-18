@@ -14,10 +14,10 @@
 Tried 4 approaches (each in its own notebook).
 
 ### Notebook 1
-- Baseline: LSTM (implemented in `network.py`)
+- Baseline implementation: LSTM (in `network.py`)
 
 ### Notebook 2
-- LSTM + Luong's attention (implemented in `network_luong_attn.py`)
+- Implementation: LSTM + Luong's attention (in `network_luong_attn.py`)
 
 ### Notebook 3
 - Simple learning rate tuning.
